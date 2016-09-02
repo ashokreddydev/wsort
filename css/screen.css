@@ -2530,4 +2530,4 @@ textarea:focus {
   }
 }
 
-.panel-heading a {text-decoration:none}
+.panel-heading a {text-decoration:none !important}
